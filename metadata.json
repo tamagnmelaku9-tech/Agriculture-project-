@@ -1,0 +1,10 @@
+{
+  "name": "Agri-Smart AI System",
+  "description": "Interactive 15-Day Agri-Tech & AI Mentorship System for Melaku: Soil & Crop ML Recommender, Climate Forecasting, Optimal Planting Advisor, and Gemini Crop Care Agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
